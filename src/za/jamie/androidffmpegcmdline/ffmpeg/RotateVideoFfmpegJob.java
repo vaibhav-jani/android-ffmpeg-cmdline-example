@@ -1,4 +1,4 @@
-package ffmpeg;
+package za.jamie.androidffmpegcmdline.ffmpeg;
 import java.util.LinkedList;
 import java.util.List;
 
